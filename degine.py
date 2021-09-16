@@ -7,12 +7,6 @@ p.bgcolor("black")
 n = 10 # distance to forward
 z = 6 # width of pen.
 s = 20 #speed of pen.
-#a.penup()
-#a.goto(0,0)
-#a.down()
-#a.color("white")
-#a.write("HARSHIT",font=("monospace",15,"bold"))
-#time.sleep(3)
 h = -300
 a.penup()
 a.goto(h,0)
